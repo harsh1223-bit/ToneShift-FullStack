@@ -1,6 +1,6 @@
 
 # ToneShift 🚀  
-ToneShift solves the problem of rewriting communication tone professionally in workplace and business settings.
+ToneShift enables professionals to instantly transform email tone (casual, formal, professional) using secure AI-powered backend services.
 ### AI-Powered Tone Transformation Platform (Full-Stack)
 
 ![Java](https://img.shields.io/badge/Java-17-blue)
@@ -58,9 +58,8 @@ You can also test APIs directly using Swagger.
 
 You can use the following demo account to quickly test the application:
 
-Email: harsh@test.com  
-Password: 123456
-
+**Email:** harsh@test.com  
+**Password:** 123456
 ---
 
 
@@ -82,6 +81,12 @@ This project demonstrates real-world backend architecture, secure API design, an
 ---
 
 ## 🏗 System Architecture
+
+The following diagram illustrates the full-stack architecture of ToneShift, including frontend, backend, database, authentication, and AI integration.
+
+![Architecture](assets/architecture.png)
+
+## 🏗 Architecture Flow
 
 User  
 ⬇  
