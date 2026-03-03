@@ -1,5 +1,6 @@
 
 # ToneShift 🚀  
+ToneShift solves the problem of rewriting communication tone professionally in workplace and business settings.
 ### AI-Powered Tone Transformation Platform (Full-Stack)
 
 ![Java](https://img.shields.io/badge/Java-17-blue)
