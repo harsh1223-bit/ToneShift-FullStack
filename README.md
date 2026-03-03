@@ -22,6 +22,8 @@ https://toneshift-backend.onrender.com
 ### 📘 Swagger API Documentation
 https://toneshift-backend.onrender.com/swagger-ui/index.html
 
+⚠️ Note: Backend is hosted on Render (free tier) and may take 30–60 seconds to wake up on the first request.
+
 ---
 ## 📸 Application Preview
 Below are real production screenshots of the deployed application and live API communication.
