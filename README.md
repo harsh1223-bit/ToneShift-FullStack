@@ -1,4 +1,4 @@
-Test Line
+
 # ToneShift 🚀  
 ### AI-Powered Tone Transformation Platform (Full-Stack)
 
@@ -21,6 +21,22 @@ https://toneshift-backend.onrender.com
 
 ### 📘 Swagger API Documentation
 https://toneshift-backend.onrender.com/swagger-ui/index.html
+
+---
+## 📸 Application Preview
+Below are real production screenshots of the deployed application and live API communication.
+
+### 🎨 User Interface
+![Landing](assets/landing.png)
+
+### 🔁 Tone Transformation Example
+![Rewrite](assets/rewrite-result.png)
+
+### 📘 API Documentation
+![Swagger](assets/swagger.png)
+
+### 🔌 Live API Call (Production)
+![API Call](assets/api-call.png)
 
 ---
 
